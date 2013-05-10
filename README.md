@@ -1,4 +1,4 @@
 WorkLog
 =======
 
-Quick and easy python script to maintain work update
+Quick and simple python script to log work updates
